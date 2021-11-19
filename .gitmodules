@@ -1,0 +1,3 @@
+[submodule "pkg/salesforce-data-models"]
+	path = pkg/salesforce-data-models
+	url = git@github.com:latonaio/salesforce-data-models.git
